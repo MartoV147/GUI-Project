@@ -1,0 +1,60 @@
+C:\Users\Gladitorian\source\repos\GUIProject\GUIProject\obj\Debug\GUIProject.csprojAssemblyReference.cache
+C:\Users\Gladitorian\source\repos\GUIProject\GUIProject\obj\Debug\GUIProject.Properties.Resources.resources
+C:\Users\Gladitorian\source\repos\GUIProject\GUIProject\obj\Debug\GUIProject.csproj.GenerateResource.cache
+C:\Users\Gladitorian\source\repos\GUIProject\GUIProject\bin\Debug\GUIProject.exe.config
+C:\Users\Gladitorian\source\repos\GUIProject\GUIProject\bin\Debug\GUIProject.exe
+C:\Users\Gladitorian\source\repos\GUIProject\GUIProject\bin\Debug\GUIProject.pdb
+C:\Users\Gladitorian\source\repos\GUIProject\GUIProject\obj\Debug\GUIProject.exe
+C:\Users\Gladitorian\source\repos\GUIProject\GUIProject\obj\Debug\GUIProject.pdb
+C:\Users\Gladitorian\source\repos\GUIProject\GUIProject\obj\Debug\GUIProject.csproj.CoreCompileInputs.cache
+C:\Users\Gladitorian\source\repos\GUIProject\GUIProject\obj\Debug\GUIProject.KnockOffPhotoShop.resources
+C:\Users\Gladitorian\source\repos\GUIProject\GUIProject\GUIProject\bin\Debug\GUIProject.exe.config
+C:\Users\Gladitorian\source\repos\GUIProject\GUIProject\GUIProject\bin\Debug\GUIProject.exe
+C:\Users\Gladitorian\source\repos\GUIProject\GUIProject\GUIProject\bin\Debug\GUIProject.pdb
+C:\Users\Gladitorian\source\repos\GUIProject\GUIProject\GUIProject\obj\Debug\GUIProject.csprojAssemblyReference.cache
+C:\Users\Gladitorian\source\repos\GUIProject\GUIProject\GUIProject\obj\Debug\GUIProject.KnockOffPhotoShop.resources
+C:\Users\Gladitorian\source\repos\GUIProject\GUIProject\GUIProject\obj\Debug\GUIProject.Properties.Resources.resources
+C:\Users\Gladitorian\source\repos\GUIProject\GUIProject\GUIProject\obj\Debug\GUIProject.csproj.GenerateResource.cache
+C:\Users\Gladitorian\source\repos\GUIProject\GUIProject\GUIProject\obj\Debug\GUIProject.csproj.CoreCompileInputs.cache
+C:\Users\Gladitorian\source\repos\GUIProject\GUIProject\GUIProject\obj\Debug\GUIProject.exe
+C:\Users\Gladitorian\source\repos\GUIProject\GUIProject\GUIProject\obj\Debug\GUIProject.pdb
+C:\Users\Gladitorian\source\repos\GUIProject\GUIProject\GUIProject\GUIProject\bin\Debug\GUIProject.exe.config
+C:\Users\Gladitorian\source\repos\GUIProject\GUIProject\GUIProject\GUIProject\bin\Debug\GUIProject.exe
+C:\Users\Gladitorian\source\repos\GUIProject\GUIProject\GUIProject\GUIProject\bin\Debug\GUIProject.pdb
+C:\Users\Gladitorian\source\repos\GUIProject\GUIProject\GUIProject\GUIProject\obj\Debug\GUIProject.csprojAssemblyReference.cache
+C:\Users\Gladitorian\source\repos\GUIProject\GUIProject\GUIProject\GUIProject\obj\Debug\GUIProject.KnockOffPhotoShop.resources
+C:\Users\Gladitorian\source\repos\GUIProject\GUIProject\GUIProject\GUIProject\obj\Debug\GUIProject.Properties.Resources.resources
+C:\Users\Gladitorian\source\repos\GUIProject\GUIProject\GUIProject\GUIProject\obj\Debug\GUIProject.csproj.GenerateResource.cache
+C:\Users\Gladitorian\source\repos\GUIProject\GUIProject\GUIProject\GUIProject\obj\Debug\GUIProject.csproj.CoreCompileInputs.cache
+C:\Users\Gladitorian\source\repos\GUIProject\GUIProject\GUIProject\GUIProject\obj\Debug\GUIProject.exe
+C:\Users\Gladitorian\source\repos\GUIProject\GUIProject\GUIProject\GUIProject\obj\Debug\GUIProject.pdb
+C:\Users\Gladitorian\source\repos\GUIProject\GUIProject\GUIProject\GUIProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gladitorian\source\repos\GUIProject\GUIProject\GUIProject\GUIProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gladitorian\source\repos\GUIProject\GUIProject\GUIProject\GUIProject\obj\Debug\GUIProject.csproj.CopyComplete
+C:\Users\Gladitorian\source\repos\tupoto gpi\GUIProjectFINAL Version\GUIProject\GUIProject\bin\Debug\GUIProject.exe.config
+C:\Users\Gladitorian\source\repos\tupoto gpi\GUIProjectFINAL Version\GUIProject\GUIProject\bin\Debug\GUIProject.exe
+C:\Users\Gladitorian\source\repos\tupoto gpi\GUIProjectFINAL Version\GUIProject\GUIProject\bin\Debug\GUIProject.pdb
+C:\Users\Gladitorian\source\repos\tupoto gpi\GUIProjectFINAL Version\GUIProject\GUIProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gladitorian\source\repos\tupoto gpi\GUIProjectFINAL Version\GUIProject\GUIProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gladitorian\source\repos\tupoto gpi\GUIProjectFINAL Version\GUIProject\GUIProject\obj\Debug\GUIProject.csprojAssemblyReference.cache
+C:\Users\Gladitorian\source\repos\tupoto gpi\GUIProjectFINAL Version\GUIProject\GUIProject\obj\Debug\GUIProject.KnockOffPhotoShop.resources
+C:\Users\Gladitorian\source\repos\tupoto gpi\GUIProjectFINAL Version\GUIProject\GUIProject\obj\Debug\GUIProject.Properties.Resources.resources
+C:\Users\Gladitorian\source\repos\tupoto gpi\GUIProjectFINAL Version\GUIProject\GUIProject\obj\Debug\GUIProject.csproj.GenerateResource.cache
+C:\Users\Gladitorian\source\repos\tupoto gpi\GUIProjectFINAL Version\GUIProject\GUIProject\obj\Debug\GUIProject.csproj.CoreCompileInputs.cache
+C:\Users\Gladitorian\source\repos\tupoto gpi\GUIProjectFINAL Version\GUIProject\GUIProject\obj\Debug\GUIProject.csproj.CopyComplete
+C:\Users\Gladitorian\source\repos\tupoto gpi\GUIProjectFINAL Version\GUIProject\GUIProject\obj\Debug\GUIProject.exe
+C:\Users\Gladitorian\source\repos\tupoto gpi\GUIProjectFINAL Version\GUIProject\GUIProject\obj\Debug\GUIProject.pdb
+D:\k\fmi things\old projects\tupoto gpi\GUIProjectFINAL Version\GUIProject\GUIProject\bin\Debug\GUIProject.exe.config
+D:\k\fmi things\old projects\tupoto gpi\GUIProjectFINAL Version\GUIProject\GUIProject\bin\Debug\GUIProject.exe
+D:\k\fmi things\old projects\tupoto gpi\GUIProjectFINAL Version\GUIProject\GUIProject\bin\Debug\GUIProject.pdb
+D:\k\fmi things\old projects\tupoto gpi\GUIProjectFINAL Version\GUIProject\GUIProject\bin\Debug\Newtonsoft.Json.dll
+D:\k\fmi things\old projects\tupoto gpi\GUIProjectFINAL Version\GUIProject\GUIProject\bin\Debug\Newtonsoft.Json.xml
+D:\k\fmi things\old projects\tupoto gpi\GUIProjectFINAL Version\GUIProject\GUIProject\obj\Debug\GUIProject.csproj.AssemblyReference.cache
+D:\k\fmi things\old projects\tupoto gpi\GUIProjectFINAL Version\GUIProject\GUIProject\obj\Debug\GUIProject.csproj.SuggestedBindingRedirects.cache
+D:\k\fmi things\old projects\tupoto gpi\GUIProjectFINAL Version\GUIProject\GUIProject\obj\Debug\GUIProject.KnockOffPhotoShop.resources
+D:\k\fmi things\old projects\tupoto gpi\GUIProjectFINAL Version\GUIProject\GUIProject\obj\Debug\GUIProject.Properties.Resources.resources
+D:\k\fmi things\old projects\tupoto gpi\GUIProjectFINAL Version\GUIProject\GUIProject\obj\Debug\GUIProject.csproj.GenerateResource.cache
+D:\k\fmi things\old projects\tupoto gpi\GUIProjectFINAL Version\GUIProject\GUIProject\obj\Debug\GUIProject.csproj.CoreCompileInputs.cache
+D:\k\fmi things\old projects\tupoto gpi\GUIProjectFINAL Version\GUIProject\GUIProject\obj\Debug\GUIProject.csproj.CopyComplete
+D:\k\fmi things\old projects\tupoto gpi\GUIProjectFINAL Version\GUIProject\GUIProject\obj\Debug\GUIProject.exe
+D:\k\fmi things\old projects\tupoto gpi\GUIProjectFINAL Version\GUIProject\GUIProject\obj\Debug\GUIProject.pdb
